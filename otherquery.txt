@@ -1,1 +1,1 @@
-Select first, middle, last, age, city ,state from customer
+Select first, middle, last, age, city ,state from customer where rownum < 100
